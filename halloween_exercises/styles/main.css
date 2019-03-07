@@ -1,0 +1,86 @@
+html {
+
+background-image: url("../images/bats.gif");
+
+}
+body {
+	width: 800px;
+	
+	background-color: white;
+
+margin: 0 auto;
+
+box-shadow: 0 10px 20px 10px;
+}
+main {
+	padding-left: 10px;
+
+}
+
+*{
+font-family: Sans-Serif;
+}
+#block {
+background-color: white
+
+}
+#h1
+{
+color: yellow
+}
+a {
+  color: orange;
+  
+  font-weight: bold; 
+
+  }
+h1, h2, h3, h4 {
+margin: 0;
+
+padding: 0;
+
+}
+
+header {
+	background-image: -webkit-linear-gradient(45deg, white 0%, orange 75%, black 100%);
+
+background-image: -moz-linear-gradient(45deg, white 0%, orange 75%, black 100%);
+
+background-image: -o-linear-gradient(45deg, white 0%, orange 75%, black 100%);
+
+background-image: linear-gradient(45deg, white 0%, orange 75%, black 100%);
+
+padding: 35px;
+
+border-bottom: 3px solid black;
+
+font-weight: bold;
+}
+header img {
+float: left;
+
+padding-right: 20px;
+}
+list ul li{
+	float: left;
+	padding: 0;
+	width: 20%;
+	margin-left: -1em;
+}
+
+
+footer {
+	background-image: -webkit-linear-gradient(45deg, white 0%, orange 75%, black 100%);
+
+background-image: -moz-linear-gradient(45deg, white 0%, orange 75%, black 100%);
+
+background-image: -o-linear-gradient(45deg, white 0%, orange 75%, black 100%);
+
+background-image: linear-gradient(45deg, white 0%, orange 75%, black 100%);
+
+padding: 20px;
+
+padding-left: 300px;
+
+border-bottom: 2px solid black;
+}
